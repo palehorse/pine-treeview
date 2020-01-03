@@ -2,7 +2,7 @@
   "name": "pine-treeview",
   "version": "1.0.2",
   "description": "A tree view jquery plugin",
-  "main": "index.js",
+  "main": "pine-treeview.jquery.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
